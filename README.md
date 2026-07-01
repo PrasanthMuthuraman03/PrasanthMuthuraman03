@@ -10,7 +10,7 @@ Building modern, responsive and scalable web applications.
 
 <p align="center">
 <a href="https://prasanths-portfolio.netlify.app">🌐 Portfolio</a> •
-<a href="www.linkedin.com/in/prasanth-muthuraman">💼 LinkedIn</a> •
+<a href="www.linkedin.com/in/prasanth-muthuraman/">💼 LinkedIn</a> •
 <a href="mailto:prasanthmp2003@gmail.com">📧 Email</a>
 </p>
 
@@ -119,7 +119,7 @@ Complaint Management System for reporting and tracking community issues.
 📧 Email: **prasanthmp2003@gmail.com**
 
 💼 LinkedIn:
-www.linkedin.com/in/prasanth-muthuraman
+[www.linkedin.com/in/prasanth-muthuraman](https://www.linkedin.com/in/prasanth-muthuraman/)
 
 🌐 Portfolio:
 https://prasanths-portfolio.netlify.app
