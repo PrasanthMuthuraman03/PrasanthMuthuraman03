@@ -10,7 +10,7 @@ Building modern, responsive and scalable web applications.
 
 <p align="center">
 <a href="https://prasanths-portfolio.netlify.app">🌐 Portfolio</a> •
-<a href="www.linkedin.com/in/prasanth-muthuraman/">💼 LinkedIn</a> •
+<a href="https://www.linkedin.com/in/prasanth-muthuraman/">💼 LinkedIn</a> •
 <a href="mailto:prasanthmp2003@gmail.com">📧 Email</a>
 </p>
 
